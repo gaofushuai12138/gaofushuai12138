@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 
 
-# Hi,I'm RenShiWei! 👋
+# Hi,I'm GFS! 👋
 后端开发工程师
 
-<img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gaofushuai12138&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 ## Languages
 <a href="https://github.com/gaofushuai12138">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duktig666&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaofushuai12138&theme=vue" />
 </a>
